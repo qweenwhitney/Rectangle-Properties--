@@ -10,7 +10,7 @@ void displayProperties(double perimeter, double area);
 
 int main()
 {
-    double length;
+    double length; 
     double width;
     double perimeter;
     double area;
